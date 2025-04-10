@@ -169,7 +169,7 @@ const Contact = () => {
                 icon: faGithub,
                 label: "GitHub",
                 link: "https://github.com/SehrishTanveer2002",
-                text: "SehrishTanveer2002",
+                text: "SehrishTanveer",
               },
               {
                 icon: faInstagram,
