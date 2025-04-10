@@ -15,7 +15,7 @@ const socialMedia = [
     name: "GitHub",
     icon: <FaGithub size={20} />,
     color: "bg-[#333333]",
-    url: "https://github.com/SehrishTanveer2002",
+    url: "https://github.com/SehrishTanveer",
   },
   {
     name: "Email",
