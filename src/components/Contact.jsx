@@ -168,7 +168,7 @@ const Contact = () => {
               {
                 icon: faGithub,
                 label: "GitHub",
-                link: "https://github.com/SehrishTanveer2002",
+                link: "https://github.com/SehrishTanveer",
                 text: "SehrishTanveer2002",
               },
               {
