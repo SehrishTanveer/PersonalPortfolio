@@ -13,7 +13,7 @@ const projects = [
       "A personal portfolio that displays my projects, skills, contact details, and a brief about myself.",
     image: "/personal_portfolio.png",
     brand: "Portfolio",
-    link: "https://yourportfolio.com",
+    link: "https://github.com/SehrishTanveer/PersonalPortfolio.git",
     technologies: [
       {
         name: "HTML",
